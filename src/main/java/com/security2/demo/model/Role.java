@@ -13,6 +13,8 @@ import lombok.Setter;
 @Setter
 @NoArgsConstructor
 public class Role {
+	
+	
 	@Id
 	@GeneratedValue
 	private int role_id;
